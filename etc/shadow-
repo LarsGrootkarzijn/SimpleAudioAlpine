@@ -1,0 +1,15 @@
+root:$6$7yEuH/RF/TEFDa9P$/kCipJ7hLX60i6nixZ9wp83icSvoLUJHSMeuICflJprYB05qty9cCcr9QpyVlp2ym3D8gvWqQOYb0.9OU1ejI1:19041:0:99999:7:::
+bin:*:10933:0:99999:7:::
+daemon:*:10933:0:99999:7:::
+adm:*:10933:0:99999:7:::
+lp:*:10933:0:99999:7:::
+sync:*:10933:0:99999:7:::
+shutdown:*:10933:0:99999:7:::
+halt:*:10933:0:99999:7:::
+uucp:*:10933:0:99999:7:::
+operator:*:10933:0:99999:7:::
+ftp:*:10933:0:99999:7:::
+nobody:*:10933:0:99999:7:::
+default::10933:0:99999:7:::
+pulse:*:::::::
+ntp:$6$Wrdzg.SCB4R9yZbv$QwgD0P5CfarnVBnv3Ftyn8V0W8yGNxBbAKggtOAjP.zOxNzWDJmypt4YgWP5GvYbUAeskVpQeUMs9onZxP6dE.:19041:0:99999:7:::

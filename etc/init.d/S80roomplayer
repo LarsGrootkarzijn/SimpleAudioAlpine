@@ -1,0 +1,6 @@
+ifconfig eth0 up
+udhcpc
+chronyd
+chronyc makestep
+/usr/sbin/dropbear -E -R
+mount devpts /dev/pts -t devpts
